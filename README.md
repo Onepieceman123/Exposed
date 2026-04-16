@@ -1,5 +1,6 @@
 # Exposed
 # exposed.dev
+🔗 **[onepieceman123.github.io/Exposed](https://onepieceman123.github.io/Exposed)**
 
 > **Your browser is already talking. This is what it's saying.**
 
